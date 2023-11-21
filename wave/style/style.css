@@ -1,0 +1,53 @@
+body {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.wave {
+}
+.container {
+  width: 1200px;
+  color: #fff;
+}
+.logo {
+}
+.link {
+}
+.wawe-box {
+}
+.title {
+  font-family: "Raleway", sans-serif;
+  font-size: 150px;
+  color: #0d302c;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin: 0 auto;
+  margin-top: 90px;
+}
+.wawe-box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+body {
+  background-image: url(/img/wawe-new.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+nav {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  color: #fff;
+}
+a {
+  color: #fff;
+}
+.texter {
+  margin: 0 auto;
+  color: #000;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
